@@ -6,7 +6,7 @@ body{
 
 }
 .continue-btn {
-    background-color: #4CAF50; /* Green background */
+    background-color: #a24aea; /* Green background */
     color: rgb(17, 121, 121); /* White text */
     border: none;
     padding: 10px 20px;
@@ -18,7 +18,7 @@ body{
 
 
 .continue-btn:hover {
-    background-color: #33a839; /* Darker green on hover */
+    background-color: #a24aea; /* Darker green on hover */
 }
 
 /* Team Section */
